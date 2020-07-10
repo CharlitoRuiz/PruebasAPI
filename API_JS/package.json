@@ -1,0 +1,20 @@
+{
+  "name": "Pruebas API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^6.0.2",
+    "request": "^2.88.0",
+    "should": "^10.0.0"
+  },
+  "dependencies": {
+    "postman": "^0.2.0"
+  }
+}
